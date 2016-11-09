@@ -1,0 +1,3 @@
+This is a section designed for placing tools and various other materials used in hacking.
+This is a location designed for hacktivists/Anonymous especially, but others are welcome to use it (just don't use it against us)
+Tools can be emailed to asher@tutanota.com with the subject Tool:[Toolname] and the content being raw files, compiled files if you desire, a description of the tool, a walkthrough if necessary, and requirements.
